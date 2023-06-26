@@ -1,1 +1,5 @@
 
+This notebook interprets the dataset from different angles and implements sentiment analysis on review texts to quantify its polarity using text blob module
+
+Kaggle Dataset: https://www.kaggle.com/code/lindaannang/ecommerce-women-clothing-review/data
+
