@@ -3,3 +3,8 @@ This notebook interprets the dataset from different angles and implements sentim
 
 Kaggle Dataset: https://www.kaggle.com/code/lindaannang/ecommerce-women-clothing-review/data
 
+Libraries used:
+- Matplotlib
+- Pandas
+- Numpy
+- TextBlob
